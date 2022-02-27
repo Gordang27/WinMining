@@ -1,0 +1,2 @@
+# WinMining
+Mining Console
